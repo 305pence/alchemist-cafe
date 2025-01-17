@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package io.github._305pence.examplemod;
 
 import java.util.List;
 import java.util.Set;
