@@ -1,6 +1,5 @@
 package io.github._305pence.alchemistcafe.item;
 
-import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.registries.DeferredItem;
 
