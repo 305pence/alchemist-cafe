@@ -7,5 +7,5 @@ import static io.github._305pence.alchemistcafe.AlchemistCafe.ITEMS;
 
 public class ModItems {
     //Soda bottle item for storing soda liquid
-    public static final DeferredItem<Item> SODA_BOTTLE = ITEMS.registerSimpleItem("soda_bottle",new Item.Properties());
+    public static final DeferredItem<Item> SODA_BOTTLE = ITEMS.registerSimpleItem("soda_bottle");
 }
